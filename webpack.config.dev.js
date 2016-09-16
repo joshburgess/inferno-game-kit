@@ -23,6 +23,9 @@ module.exports = {
         NODE_ENV: JSON.stringify('production'),
       },
     }),
+    new webpack.ProvidePlugin({
+      'Inferno': 'react'
+    })
   ],
   module: {
     loaders: [{
