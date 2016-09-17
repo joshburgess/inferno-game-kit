@@ -25,7 +25,6 @@
   "dependencies": {
     "inferno": "^1.0.0-alpha11",
     "inferno-compat": "^1.0.0-alpha11",
-    "inferno-dom": "^1.0.0-alpha11",
     "matter-js": "^0.10.0"
   },
   "devDependencies": {
