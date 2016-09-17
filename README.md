@@ -5,9 +5,9 @@
 This is just a fork of [react-game-kit](https://github.com/FormidableLabs/react-game-kit) where React has been aliased as [Inferno](https://github.com/trueadm/inferno).  
 
 Simply by swapping out React for Inferno, the following was achieved:
-255kb → 65kb
--40% CPU time
--25% memory
+* 255kb → 65kb
+* -40% CPU time
+* -25% memory
 
 There is currently some sort of bug with npm & the dependencies. To get past this, just follow the instructions below in the order they are listed.
 
