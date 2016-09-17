@@ -2,6 +2,8 @@
 
 ## A fork of react-game-kit using Inferno (1.0.0-alpha11) instead of React.
 
+![alt text](inferno-game-kit.png "Game Development with Inferno")
+
 This is just a fork of [react-game-kit](https://github.com/FormidableLabs/react-game-kit) where React has been aliased as [Inferno](https://github.com/trueadm/inferno).  
 
 Simply by swapping out React for Inferno, the following was achieved:
