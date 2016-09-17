@@ -23,9 +23,9 @@
   "license": "MIT",
   "repository": "https://github.com/FormidableLabs/react-game-kit",
   "dependencies": {
-    "inferno": "^1.0.0-alpha9",
-    "inferno-compat": "^1.0.0-alpha9",
-    "inferno-dom": "^1.0.0-alpha9",
+    "inferno": "^1.0.0-alpha10",
+    "inferno-compat": "^1.0.0-alpha10",
+    "inferno-dom": "^1.0.0-alpha10",
     "matter-js": "^0.10.0"
   },
   "devDependencies": {
